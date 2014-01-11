@@ -26,4 +26,4 @@ UUID: D2AC346E-E323-5F2E-7C2D-D5783E5E14DB
 ```
 
 ##License
-`GetSysUUID is released under the [LGPL](http://www.gnu.org/licenses/lgpl.html).
+`GetSysUUID` is released under the [LGPL](http://www.gnu.org/licenses/lgpl.html).
